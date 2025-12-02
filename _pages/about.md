@@ -57,7 +57,7 @@ redirect_from:
 🌐 我的个人主页（GitHub Pages）
 使用 GitHub Pages + Markdown 创建的静态网站，这是我的第一个网站。
 👉 GitHub 项目链接：(https://github.com/L-iu789/academicpages.github.io
-)）
+)
 
 🎯 我的大学四年计划
 ------
