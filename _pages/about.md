@@ -59,12 +59,13 @@ redirect_from:
 👉 GitHub 项目链接：(https://github.com/L-iu789/academicpages.github.io
 )）
 
-How to edit your site's GitHub repository
+🎯 我的大学四年计划
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+• 学好 C 语言、数据结构、计算机网络等基础课
+• 至少完成 10 个小项目
+• 参加一次 CTF 或编程比赛
+• 进入实验室/兴趣小组（如网安协会）
+• 学会一项长期兴趣爱好（摄影、跑步、音乐等）
 
 For more info
 ------
