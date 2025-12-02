@@ -49,10 +49,15 @@ redirect_from:
 • 完成一次简单的 Wireshark 抓包实验
 • 写了一个 学生管理系统（C语言课程作业）
 
-**Markdown generator**
+💡 我的项目展示（Projects）
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+📘 学生管理系统（C语言）
+一个可以添加、删除、修改学生信息的小程序，使用 TXT 文件存储数据。
+👉 GitHub 项目链接：（L-iu789/academicpages.github.io: Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.）
+🌐 我的个人主页（GitHub Pages）
+使用 GitHub Pages + Markdown 创建的静态网站，这是我的第一个网站。
+👉 GitHub 项目链接：(https://github.com/L-iu789/academicpages.github.io
+)）
 
 How to edit your site's GitHub repository
 ------
