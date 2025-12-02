@@ -53,7 +53,7 @@ redirect_from:
 
 📘 学生管理系统（C语言）
 一个可以添加、删除、修改学生信息的小程序，使用 TXT 文件存储数据。
-👉 GitHub 项目链接：（L-iu789/academicpages.github.io: Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.）
+👉 GitHub 项目链接：（L-iu789/academicpages.github.io: Github Pages template based upon HTML and Markdown for personal, portfolio-based websites）
 🌐 我的个人主页（GitHub Pages）
 使用 GitHub Pages + Markdown 创建的静态网站，这是我的第一个网站。
 👉 GitHub 项目链接：(https://github.com/L-iu789/academicpages.github.io
@@ -67,6 +67,9 @@ redirect_from:
 • 进入实验室/兴趣小组（如网安协会）
 • 学会一项长期兴趣爱好（摄影、跑步、音乐等）
 
-For more info
+🎮 兴趣爱好
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+🎬 喜欢的电影：星际穿越、模仿游戏
+🎮 喜欢的游戏：Minecraft / 王者荣耀
+🏃 爱好：跑步、健身、拍照
+📚 喜欢学习新技术与动手制作小项目
