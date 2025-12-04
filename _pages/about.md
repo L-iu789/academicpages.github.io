@@ -77,7 +77,7 @@ redirect_from:
 
 一个可以添加、删除、修改学生信息的小程序，使用 TXT 文件存储数据。
 
-👉 GitHub 项目链接：（L-iu789/academicpages.github.io: Github Pages template based upon HTML and Markdown for personal, portfolio-based websites）
+👉 GitHub 项目链接：(https://github.com/L-iu789/StudentManagementSystem000001)
 
 🌐 我的个人主页（GitHub Pages）
 
